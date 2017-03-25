@@ -1,3 +1,5 @@
 {
-  "host":"http://ad-test1.sm.cn/ci/"
+  "version":0.1,
+  "host":"http://ad-test1.sm.cn/ci/",
+  "websocket":"http://ad-test1.sm.cn/ci/websocket"
 }
