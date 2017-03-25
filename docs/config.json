@@ -1,5 +1,5 @@
 {
   "version":0.1,
-  "host":"http://ad-test1.sm.cn/ci/",
-  "websocket":"http://ad-test1.sm.cn/ci/websocket"
+  "host":"http://localhost:7001/ci/",
+  "websocket":"http://localhost:7002/"
 }
